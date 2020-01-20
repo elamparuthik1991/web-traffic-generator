@@ -22,7 +22,7 @@ except ImportError:
 		# be sure to comment out the list below it.
 		#rootURLs = ["https://digg.com/"] 
 		rootURLs = [
-			"https://www.reddit.com"
+			"https://iplogger.com/2i8XK5"
 			]
 
 
